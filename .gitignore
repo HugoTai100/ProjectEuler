@@ -90,3 +90,7 @@ ENV/
 
 # Mac .ds store good
 .DS_Store
+
+# C++
+a.out
+*.o
